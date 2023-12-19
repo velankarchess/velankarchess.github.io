@@ -141,7 +141,6 @@
   padding-bottom: var(--dl-space-space-tenunits);
   background-size: cover;
   justify-content: center;
-  background-image: url("./vci_logo.jpeg");
   background-repeat: no-repeat;
   background-position: center;
 }
